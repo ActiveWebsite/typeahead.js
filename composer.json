@@ -13,5 +13,15 @@
         "issues": "https://github.com/twitter/typeahead.js/issues"
     },
     "author": "Twitter Inc.",
-    "license": "MIT"
+    "license": "MIT",
+    "extra": {
+        "component": {
+            "scripts": [
+                "dist/typeahead.bundle.js"
+            ],
+            "files": [
+               "dist/*.js"
+            ]
+        }
+    }
 }
