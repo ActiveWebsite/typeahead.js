@@ -16,9 +16,6 @@
     "license": "MIT",
     "extra": {
         "component": {
-            "scripts": [
-                "dist/typeahead.bundle.js"
-            ],
             "files": [
                "dist/*.js"
             ]
